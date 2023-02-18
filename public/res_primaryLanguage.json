@@ -11,42 +11,21 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "301 Final Placeholder",
+        "startDate": "Feb 2023",
+        "description": "It's gonna be really cool",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/projectPlaceholder.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/KMArtwork",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +34,104 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Horned Beasts",
+        "startDate": "Feb 2023",
+        "description": "My first project working with React! I learned a lot about passing props and state management and also got my first taste of Bootstrap all at once! It iterates through a .json file and displays a horned beast component and they can even be filtered down based on how many horns they have! You can also click on them to display a Modal component for even more information. This was equally as challenging as it was rewarding.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/hornedbeasts/hornedbeast_blue.jpg",
+          "images/portfolio/hornedbeasts/hornedbeast_red.jpg",
+          "images/portfolio/hornedbeasts/hornedbeast_hornfilter.jpg",
+          "images/portfolio/hornedbeasts/hornedbeast_modal.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/KMArtwork/horned-beasts",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio Presenter",
+        "startDate": "Feb 2023",
+        "description": "My first group project! Our goal was to create an all-in-one portfolio presentation app for developers. A user can take a project folder and display all the text inside of the .html, .css, and .js files side-by-side with the deployed web page. I created all of the logic responsible for displaying the project's files and deployed page to the screen, as well as the functionality behind some of the other features such as the ability to create notes and to-do lists.",
+        "images": [
+          "images/portfolio/presenter201/201_Projects.jpg",
+          "images/portfolio/presenter201/201_lightmode.jpg",
+          "images/portfolio/presenter201/201_Notes.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Odd Duck Products",
+        "startDate": "Jan 2023",
+        "description": "My second major project that focused on implementing event handlers and local storage to track data and then using Chart.js to display that information to the screen.",
+        "images": [
+          "images/portfolio/oddduck/duck_results.jpg",
+          "images/portfolio/oddduck/duck_home.jpg",
+          "images/portfolio/oddduck/duck_survey.jpg"
+        ],
+        "url": "https://github.com/KMArtwork/odd-duck",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "Jan 2023",
+        "description": "One of the first apps I worked on at Code Fellows! I had to develop a mock up of a webpage for a store that sold cookies. I learned a lot about using constructors, how to display information in a table, as well as how to implement forms for various situations.",
+        "images": [
+          "images/portfolio/salmoncookies/cookies_home.jpg",
+          "images/portfolio/salmoncookies/cookies_locations.jpg",
+          "images/portfolio/salmoncookies/cookies_sales.jpg",
+          "images/portfolio/salmoncookies/cookies_cart.jpg"
+        ],
+        "url": "https://github.com/KMArtwork/cookie-stand",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
