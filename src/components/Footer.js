@@ -36,7 +36,7 @@ class Footer extends Component {
                   id={window.$primaryLanguageIconId}
                 ></span>
               </div>
-              <div style={{display: 'hidden'}} 
+              <div
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$secondaryLanguage,
