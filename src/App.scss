@@ -38,11 +38,12 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	// background-color: #e9d5a1;
+	background-image: url("../public/images/BG_image_horz.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: 100%;
 	padding-top: 150px;
 	padding-bottom: 0;
 }
