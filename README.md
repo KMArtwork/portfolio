@@ -35,3 +35,13 @@ Start time: 4:21
 Finish time: 5:41
 
 Actual time needed to complete: 80m
+
+### Task 4: Projects Section Page
+
+Estimate of time needed to complete: 30m
+
+Start time: 5:45
+
+Finish time: 6:03
+
+Actual time needed to complete: 18m
