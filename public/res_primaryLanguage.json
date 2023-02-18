@@ -68,7 +68,7 @@
           "images/portfolio/presenter201/201_lightmode.jpg",
           "images/portfolio/presenter201/201_Notes.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/reedoooo/resume-ready",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -138,37 +138,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Wave Fundraising",
+        "title": "Team Lead",
+        "years": "6.2022 - 10.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "UPS",
+        "title": "Personal Vehicle Driver",
+        "years": "10.2021 - 12.2021",
         "mainTech": [
-          "Angular 7/8"
+          
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+   
+        ]
+      },
+      {
+        "company": "Pizza Pizzaz",
+        "title": "Key Holder",
+        "years": "7.2012 - 5.2019",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+   
         ]
       }
     ]

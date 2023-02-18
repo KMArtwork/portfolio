@@ -34,24 +34,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
         },
         {
           "name": "Bootstrap",
@@ -59,13 +44,48 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "VSCode",
+          "class": "devicon-vscode-plain",
+          "level": "85"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "85"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "60"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "60"
+        },
+        {
+          "name": "After Effects",
+          "class": "devicon-aftereffects-plain",
+          "level": "60"
+        },
+        {
+          "name": "Premiere Pro",
+          "class": "devicon-premierepro-plain",
+          "level": "60"
+        },
+        {
+          "name": "Maya",
+          "class": "devicon-maya-plain",
+          "level": "60"
+        },
+        {
+          "name": "UE4",
+          "class": "devicon-unrealengine-plain",
           "level": "60"
         }
       ]
